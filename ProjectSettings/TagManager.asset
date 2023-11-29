@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - Bullets
+  - Enemies
+  - EnemyBullet
+  - Weapon
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullets
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1746240711
+    locked: 0
+  - name: Walls
+    uniqueID: 4259772551
+    locked: 0
+  - name: Entities
+    uniqueID: 1513144795
+    locked: 0
+  - name: Bullets
+    uniqueID: 3241144601
+    locked: 0
+  - name: Weapons
+    uniqueID: 2936847615
+    locked: 0
+  - name: Room Triggers
+    uniqueID: 3794246121
+    locked: 0
